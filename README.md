@@ -1,1 +1,1 @@
-# data-analysis-with-polars-python-practice
+# Data Analysis Practice with Polars (Python) (Practical Training)
